@@ -313,6 +313,9 @@ a:hover {
 .w-225px {
   width: 225px;
 }
+.max-w-140px {
+  max-width: 140px;
+}
 .max-w-1360px {
   max-width: 1360px;
 }
